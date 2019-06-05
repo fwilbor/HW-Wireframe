@@ -18,6 +18,8 @@ article {
 
  color: #ebebeb;
  background: #777;
+ margin: 20px;
+ height: 105px;
  
  }
  
@@ -47,6 +49,8 @@ nav {
 aside {
     padding: 40px;
     float: right;
+    width: 38%;
+    height: 90px;
 
 }
 clear {
@@ -58,7 +62,8 @@ footer {
 
     clear: both;
     display: block;
-    margin-top: 200px;
+    margin-top: 210px;
+    padding: 8px;
 
 
 }
@@ -68,7 +73,7 @@ footer {
 
 #section {
 
-    height: 90px;
+    height: 170px;
     width: 495px;
     float: left;
 
