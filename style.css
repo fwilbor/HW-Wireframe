@@ -4,7 +4,7 @@ body {
     background: #777;
     width: 960px;
     font-size: 18px;
-    margin: auto; 
+    margin: 0 auto; 
    
    }
 
@@ -19,7 +19,7 @@ article {
  color: #ebebeb;
  background: #777;
  margin: 20px;
- height: 105px;
+ 
  
  }
  
@@ -31,9 +31,9 @@ article {
 
 header {
 
-    height: 30px;
-    padding: 10px;
-    margin: auto
+    
+    padding: 20px;
+    
     
 }
 
@@ -78,6 +78,11 @@ footer {
     float: left;
 
 
+}
+
+#p {
+    color: #777;
+    background-color: #ebebeb; 
 }
 
 
